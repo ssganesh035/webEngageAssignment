@@ -8,28 +8,15 @@ This project creates an Express.js route `/generate-csv` that fetches data from 
 ---
 
 ## How to Run
-1. Clone the repository: 
-```git clone https://github.com/ssganesh035/webEngageAssignment```
+1. Clone the repository: ```git clone https://github.com/ssganesh035/webEngageAssignment```
 
----
+2. Navigate to the project folder: ```cd webEngageAssignment```
 
-2. Navigate to the project folder:
-```cd webEngageAssignment```
+3. Install dependencies: ```npm install```
 
----
+4. Start the server: ```node main.js```
 
-3. Install dependencies: 
-```npm install```
-
----
-
-4. Start the server: 
-```node main.js```
-
----
-
-5. Make a GET request to: 
-```http://localhost:3000/generate-csv```
+5. Make a GET request to: ```http://localhost:3000/generate-csv```
 
 ---
 
