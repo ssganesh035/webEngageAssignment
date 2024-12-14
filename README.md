@@ -13,15 +13,22 @@ This project creates an Express.js route `/generate-csv` that fetches data from 
 
 ---
 
-2. Install dependencies: 
+2. Navigate to the project folder:
+```cd webEngageAssignment```
+
+---
+
+3. Install dependencies: 
 ```npm install```
 
 ---
 
-3. Start the server: 
+4. Start the server: 
 ```node main.js```
 
-4. Make a GET request to: 
+---
+
+5. Make a GET request to: 
 ```http://localhost:3000/generate-csv```
 
 ---
