@@ -16,7 +16,7 @@ This project creates an Express.js route `/generate-csv` that fetches data from 
 
 4. Start the server: ```node main.js```
 
-5. Make a GET request to: ```http://localhost:3000/generate-csv```
+5. Make a GET request to: http://localhost:3000/generate-csv
 
 ---
 
