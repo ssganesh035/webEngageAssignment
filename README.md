@@ -1,7 +1,5 @@
 # Express CSV Generator
 
----
-
 ## Description
 This project creates an Express.js route `/generate-csv` that fetches data from three APIs, generates a CSV file, and returns its file path.
 
